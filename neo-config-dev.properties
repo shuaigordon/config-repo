@@ -1,1 +1,1 @@
-neo-config-dev.properties
+neo.hello=hello im dev
